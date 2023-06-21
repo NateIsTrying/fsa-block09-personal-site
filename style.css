@@ -6,5 +6,26 @@ main {
     background-image: url("./firewatch-wallpaper.jpg");
     background-size: 100%;
     background-position: center;
-    padding-bottom: 40%;
+    padding-bottom: 35%;
+    text-align: center;
+}
+
+h1 {
+    color: #32002a;
+}
+
+h2 {
+
+}
+
+h3 {
+    position: absolute;
+    left: 28%;
+    bottom: 10%;
+    color: #ffddc6;
+}
+
+span {
+    display: block;
+    padding-top: 10px;
 }
