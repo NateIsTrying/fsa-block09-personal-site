@@ -127,7 +127,7 @@ section a img{
 }
 
 .footer-logos {
-    padding-top: 35px;
+    padding-top: 45px;
     padding-left: 38%;
 }
 
@@ -135,6 +135,7 @@ section a img{
     text-align: right;
     display: block;
     padding-left: 90%;
+    padding-bottom: 20px;
 }
 
 .footer-nav nav a {
