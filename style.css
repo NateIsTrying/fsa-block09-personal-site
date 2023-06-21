@@ -1,3 +1,10 @@
 body {
     font-family: 'Work Sans', sans-serif;
 }
+
+main {
+    background-image: url("./firewatch-wallpaper.jpg");
+    background-size: 100%;
+    background-position: center;
+    padding-bottom: 40%;
+}
