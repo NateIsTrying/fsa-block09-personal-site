@@ -81,3 +81,43 @@ section p{
     color: #ffddc6;
 }
 
+
+.sec-A {
+    top: 19%;
+    width: 50%;
+    text-align: left;
+}
+
+.sec-A h2 {
+    padding-left: 10%;
+}
+
+.sec-B {
+    bottom: 30%;
+    width: 50%;
+    text-align: right;
+    padding-left: 50%;
+}
+
+.sec-B h2 {
+    padding-right: 10%;
+}
+
+.sec-C {
+    bottom: 12%;
+    width: 50%;
+    text-align: left;
+    /* Everyone who reads this is definitely sec-c ;) */
+}
+
+.sec-C h2{
+    padding-left: 10%;
+}
+
+.sec-B, .sec-C {
+    color: #ffddc6;
+}
+
+.sec-B h2, .sec-C h2 {
+    color: #ffddc6;
+}
