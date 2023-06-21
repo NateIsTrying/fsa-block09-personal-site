@@ -1,5 +1,6 @@
 body {
     font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
 }
 
 main {
@@ -12,20 +13,42 @@ main {
 
 h1 {
     color: #32002a;
+    padding: 40px 0;
+    font-weight: 700;
+
 }
 
 h2 {
-
+    color: #32002a;
 }
 
 h3 {
     position: absolute;
     left: 28%;
-    bottom: 10%;
+    bottom: 8%;
     color: #ffddc6;
 }
 
 span {
     display: block;
     padding-top: 10px;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+a {
+    text-decoration: none;
+    padding: 0 20px;
+    color: #32002a;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ffddc6;
+}
+
+.right-side {
+    float: right;
 }
