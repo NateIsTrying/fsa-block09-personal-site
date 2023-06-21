@@ -121,3 +121,30 @@ section p{
 .sec-B h2, .sec-C h2 {
     color: #ffddc6;
 }
+
+section a img{
+    display: inline;
+    width: 5%;
+}
+
+.footer-logos {
+    padding-top: 45px;
+    padding-left: 38%;
+}
+
+.footer-nav {
+    text-align: right;
+    display: block;
+    padding-left: 90%;
+    padding-bottom: 20px;
+}
+
+.footer-nav nav a {
+    display: block;
+    padding-bottom: 5px;
+    padding-left: 50px;
+}
+
+.footer-nav nav h4 {
+    padding-right: 20px;
+}
