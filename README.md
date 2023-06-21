@@ -5,4 +5,4 @@
 # The background is from a video-game called 'Firewatch'. 
 # I also placed a site map within the footer to the right of the icons at center of the footer.
 
-#TeamCodeConnosoirs
+# #TeamCodeConnosoirs
